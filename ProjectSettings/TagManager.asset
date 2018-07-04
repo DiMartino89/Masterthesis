@@ -13,24 +13,24 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Floor
+  - Wall
+  - Ceiling
+  - FloorSecurity
+  - WallSecurity
+  - CeilingSecurity
+  - FloorOther
+  - WallOther
+  - CeilingOther
+  - FloorFlightControl
+  - WallFlightControl
+  - CeilingFlightControl
+  - FloorStorage
+  - WallStorage
+  - CeilingStorage
+  - FloorHangar
+  - WallHangar
+  - CeilingHangar
   - 
   - 
   - 
